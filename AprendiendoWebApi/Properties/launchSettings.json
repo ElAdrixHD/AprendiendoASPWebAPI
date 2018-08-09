@@ -3,7 +3,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:50427",
+      "applicationUrl": "http://localhost:62626",
       "sslPort": 0
     }
   },
@@ -14,6 +14,7 @@
       "launchBrowser": true,
       "launchUrl": "api/pais",
       "environmentVariables": {
+        "this is my custom Secret key for authnetication": "JHEFKWEBWFSFNSFSFF_FLSFJEOIFHWOEIFHWIFEHWFIEWPFWFHI@KJEBFUFG",
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
